@@ -1,0 +1,18 @@
+apple and orange
+
+S -> t is the surface of the house
+a origin of tree of apples
+b origin of tree of orange
+m number of apples falls
+n number of oranges falls
+
+
+in exp
+s -> t [7,10]
+a 4
+b 12
+m 3
+n 3
+
+
+------A----S------T--B
